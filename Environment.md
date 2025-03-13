@@ -15,7 +15,7 @@ uv venv --python=3.12 dl_lab
 ```
 3. Let's activate this environment
 ```bash 
-source dl_lab/bin/activate # macos /linux
+#source dl_lab/bin/activate # macos /linux
 # OR
 dl_lab\Scripts\activate # Windows
 ```
